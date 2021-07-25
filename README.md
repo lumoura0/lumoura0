@@ -18,6 +18,7 @@ E estou me capacitando pela @OneBitCode para me tornar um <b>Desenvolvedor Full-
 
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-pinheiro/)](https://www.linkedin.com/in/eduarda-pinheiro/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eduarda_pinheiro_/)](https://www.instagram.com/eduarda_pinheiro_/)
 
 <p>
 <img align= "botton" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
