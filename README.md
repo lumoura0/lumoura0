@@ -8,7 +8,6 @@ Me chamo <b> Luis Fernando</b>.
 <a href="https://www.instagram.com/lu_moura.dev/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="28px" height="28px">
 </a>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-835154203/)](https://www.linkedin.com/in/luis-fernando-835154203/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lu_moura.dev/)](https://www.instagram.com/lu_moura.dev/)
 </p>
 <p align="left" >
 Atualmente moro em Aracaju/SE-BR.<br />
