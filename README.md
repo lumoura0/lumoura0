@@ -1,6 +1,7 @@
-<h1 align="center"> Seja bem vindo e bem vinda! 👋 </h1> �
-<p>
-My name is Luis Fernando, I'am from Brazil
+<h1 align="center"> Seja bem vindo e bem vinda! 👋 </h1>
+
+<p align="left" >
+Me chamo <b> Luis Fernando</b>.
 </p>
 <p align="left" >
 Atualmente moro em Aracaju/SE-BR.<br />
