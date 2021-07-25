@@ -1,4 +1,4 @@
-#<h1 align="center"> Seja bem vindo e bem vinda! 👋 </h1> 👋
+<h1 align="center"> Seja bem vindo e bem vinda! 👋 </h1> �
 <p>
 My name is Luis Fernando, I'am from Brazil
 </p>
