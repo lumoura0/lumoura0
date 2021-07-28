@@ -13,7 +13,7 @@ Me chamo <b> Luis Fernando</b>.
 Atualmente moro em Aracaju/SE-BR.<br />
 E estou me capacitando pela @OneBitCode para me tornar um <b>Desenvolvedor Full-Stack </b>.
 
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  width="600px" height="150px"/>
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  width="600px" height="250px"/>
 <p/>
 
 
