@@ -2,9 +2,8 @@
 <p>Olá, Me chamo Luis Fernando<br/>E estou me capacitando pela @OneBitCode para me tornar um <b>Desenvolvedor Full-Stack </b>.</p>
 <table> <tr>
                  <td>
-                           <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="40px"/>">
                     <ul>
-                        <li>:computer:👨‍💻 Técnico em Dev de Sistemas - <a href="https://ifs.edu.br/">Senai</a> </li>
+                        <li>💻 Técnico em Dev de Sistemas - <a href="http://www.se.senai.br">Senai</a> </li>
                         <li>:earth_americas: Aracaju/SE - Brasil</li>
                        <li>:hourglass: 21 anos de idade</li>
                    </ul>
@@ -26,6 +25,6 @@
 [![Instagram: luh_moura.dev]<a href="https://www.instagram.com/lu_moura.dev/" target="_blank">
                  </td>
                  <td>
-                           <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="150px"/>">
+                           <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="150px"/>
                  </td>
 </tr></table>
