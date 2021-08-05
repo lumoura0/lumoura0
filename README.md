@@ -18,11 +18,7 @@
                 <td>
                      <h4>Me encontre por aqui: </h4>
                     
-[![LinkeDin: gracyelesantoss](https://img.shields.io/badge/-gracyelesantos-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gracyelesantos/)](https://www.linkedin.com/in/gracyelesantos/)
-
-[![GitHub: 1agracinha](https://img.shields.io/github/followers/1agracinha?label=1agracinha&style=social)](https://github.com/1agracinha)
-
-[![Instagram: 1agracinha](https://img.shields.io/badge/-@1agracinha-deeppink?style=flat-rounded&logo=Instagram&logoColor=white&link=https://www.instragram.com/1agracinha/)](https://www.instagram.com/1agracinha/)
+  <a href= "https://www.instagram.com/lu_moura.dev/" target = "_blank"><img src= " https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank">Instagram
                  </td>
                  <td>
                      <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="250px"/>
