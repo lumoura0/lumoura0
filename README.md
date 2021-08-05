@@ -17,9 +17,9 @@
                 <td>
                      <h4>Me encontre por aqui: </h4>
                     
-         [![LinkeDin: luisfernando](https://img.shields.io/badge/-luisfernando-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-835154203/)](https://www.linkedin.com/in/luis-fernando-835154203/)
+        
 
-          [![Instagram] <a href="https://www.instagram.com/lu_moura.dev/" target="_blank">
+      
                  </td>
                  <td>
                            <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="150px"/>
