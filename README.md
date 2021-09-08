@@ -1,5 +1,5 @@
 <h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> opa! e aii??  </h2>
-<p>Olá, Me chamo Luis Fernando<br/>e estou começando estudos em Web Dev (HTML, CSS, JAVASCRIPT, REACT) - Web Dev loading <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
+<p>Olá, Me chamo Luis Fernando<br/>E estou começando estudos em Web Dev (HTML, CSS, JAVASCRIPT, REACT) - Web Dev loading <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
 <table> <tr>
                  <td>
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
