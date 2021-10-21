@@ -4,7 +4,7 @@
                  <td>
                             <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
                     <ul>
-                           <li>💻 Técnico em Dev de Sistemas - <a href="http://www.se.senai.br">Senai</a> </li>
+                           <li>💻 Desenvolvedor Front-End</li>
                         <li>:earth_americas: Aracaju/SE - Brasil</li>
                        <li>:hourglass: 21 anos de idade</li>
                    </ul>
