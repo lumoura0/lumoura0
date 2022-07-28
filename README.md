@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/luis-fernando-835154203/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
                  </td>
                  <td>
-                     <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="250px"/>
+                     <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" height="250px"/>
                  </td>
 </tr></table>
