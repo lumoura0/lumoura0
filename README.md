@@ -6,7 +6,7 @@
                     <ul>
                            <li>💻 Desenvolvedor Front-End</li>
                         <li>:earth_americas: Aracaju/SE - Brasil</li>
-                       <li>:hourglass: 21 anos de idade</li>
+                       <li>:hourglass: 22 anos de idade</li>
                    </ul>
                  </td>
                  <td>
