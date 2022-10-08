@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-inky-xi.vercel.app](https://portfolio-inky-xi.vercel.app)
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-inky-xi.vercel.app" target="_blank">[https://portfolio-inky-xi.vercel.app](https://portfolio-inky-xi.vercel.app)</a>
 
 - 📫 How to reach me **luisfernando.mourag@gmail.com**
 
