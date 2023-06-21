@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumoura0&label=Profile%20views&color=0e75b6&style=flat" alt="lumoura0" /> </p>
 
-- 🔭 I’m currently working on **SEMED - Secretaria Municipal de Educação**
-
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" height="250px"/>
 
 - 🌱 I’m currently learning **React**
